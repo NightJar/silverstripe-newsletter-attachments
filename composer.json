@@ -1,0 +1,22 @@
+{
+	"name": "nightjar/newsletter-attachments",
+	"description": "Allows one to attach files to newsletter emails sent via silverstripe/newsletter",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "newsletter", "attachments"],
+	"license": "MIT",
+	"authors": [{
+		"name": "Dylan Wagstaff",
+		"email": "dylan@silverstripe.com"
+	}],
+	"support": {
+		"issues": "https://github.com/Nightjar/silverstripe-newsletter-attachments/issues",
+		"irc": "irc://chat.freenode.org/silverstripe"
+	},
+	"require": {
+		"silverstripe/framework": "~3.2",
+		"silverstripe/newsletter": "dev-master"
+	},
+	"extra": {
+		"installer-name": "newsletter-attachments"
+	}
+}

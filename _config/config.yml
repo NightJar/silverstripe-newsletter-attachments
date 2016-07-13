@@ -1,0 +1,12 @@
+---
+Name: newsletterattachments
+After:
+  - 'framework/*'
+  - 'cms/*'
+---
+Newsletter:
+  extensions:
+    - NewsletterAttachments
+NewsletterEmail:
+  extensions:
+    - SendNewsletterAttachments
