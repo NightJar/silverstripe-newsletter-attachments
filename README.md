@@ -1,6 +1,9 @@
 SilverStripe Newsletter Attachments
 ===================================
 
+## ARCHIVED
+This module was originally written to support some more advanced use-cases of [silverstripe/newsletter](https://github.com/silverstripe-archive/silverstripe-newsletter), where it was being used to supply incident reports (as PDFs) to groups of customers in an operational support capacity. This use-case never eventuated; This module has never been used (to my knowledge) and silverstripe/newsletter is a relic from days gone by (c.2010) - I recommend using Software as a Service like MailChimp or SendGrid instead. Never the less, should one wish to make their own server do all the hard work **this code remains available, but it is NOT being maintained.**
+
 Requirements
 ------------
 * Silverstripe (~3.2)
